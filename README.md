@@ -35,8 +35,9 @@ Run the app by - "streamlit run 'path_to_multi-disease-pred.py file'" in termina
 
 # Screenshots
 Here are some screenshots of the application:
-![Diabetes Prediction](images/Screenshot 2024-10-05 151607.png)
-
+![Diabetes Prediction](images/Screenshot%202024-10-05%20151607.png)
+![Heart Disease Prediction](images/Screenshot%202024-10-05%20151627.png)
+![Parkinsons Prediction](images/Screenshot%202024-10-05%20151658.png)
 
 # License
 This project is licensed under the MIT License.
